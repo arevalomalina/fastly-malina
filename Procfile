@@ -1,1 +1,1 @@
-web: python fastly/app.py
+web: python app.py
